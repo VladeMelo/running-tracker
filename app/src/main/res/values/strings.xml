@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Seminario</string>
+    <string name="button_label">Get Last Location</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="name">Nome:</string>
+    <string name="weight">Peso:</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+</resources>
